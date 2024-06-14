@@ -20,33 +20,12 @@
 - 👀 Acreditamos que DevOps é mais do que uma prática; é uma cultura. Implementamos pipelines CI/CD robustos, automação de testes e monitoramento contínuo para garantir que nossos clientes possam entregar software de alta 
   qualidade de forma rápida e eficiente.
 
-### Inovação e Qualidade
-
-- ⚡ Utilizamos metodologias ágeis para garantir que nossas soluções sejam desenvolvidas com qualidade e entregues dentro dos prazos estabelecidos. Estamos sempre em busca de novas tecnologias e práticas para manter nossos 
-  serviços na vanguarda do mercado.
-
-## Projetos
-
-- **Projeto A**: Migração completa de uma infraestrutura legada para AWS com arquitetura de microsserviços.
-- **Projeto B**: Implementação de um pipeline CI/CD automatizado usando GitHub Actions, Jenkins e Terraform.
-- **Projeto C**: Desenvolvimento de uma aplicação serverless com AWS Lambda, API Gateway e DynamoDB.
-
 ## Tecnologias que Utilizamos
 
 - **Linguagens de Programação**: Python, JavaScript, Go
 - **Serviços AWS**: EC2, S3, Lambda, RDS, DynamoDB, CloudFormation
 - **Ferramentas DevOps**: GitHub Actions, Jenkins, Terraform, Docker, Kubernetes
 - **Metodologias Ágeis**: Scrum, Kanban
-
-## Como Contribuir
-
-Estamos sempre abertos a colaborações e sugestões. Se você está interessado em contribuir com nossos projetos, siga as etapas abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie um branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
-4. Faça push para o branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
 
 ## Contato
 
