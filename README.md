@@ -1,12 +1,11 @@
 # 👋 Oi, Somos a VMB (@vmb24) - Soluções em Nuvem AWS e DevOps
 
-- ☕ Bem-vindo ao repositório oficial da VMB! Somos uma empresa dedicada ao desenvolvimento de software com foco em soluções na nuvem AWS e práticas DevOps. Aqui, você encontrará informações sobre nossos projetos,   
-  tecnologias que utilizamos e nossa abordagem para resolver problemas complexos de TI.
+- ☕ Bem-vindo ao repositório oficial da VMB! Somos uma empresa dedicada ao desenvolvimento de software com foco em soluções na nuvem AWS, utilizando AI e práticas DevOps. Aqui, você encontrará informações sobre nossos projetos, tecnologias que utilizamos e nossa abordagem para resolver problemas complexos de TI.
 
 ## Sobre a VMB
 
-- ⚡ A VMB foi fundada com a missão de ajudar empresas a abraçarem a transformação digital de maneira eficaz e segura. Especializamo-nos em criar soluções personalizadas que alavancam o poder da AWS, oferecendo     
-  escalabilidade, flexibilidade e segurança incomparáveis. Nosso portfólio abrange desde a migração de sistemas legados para a nuvem até a implementação de arquiteturas de microsserviços e automação de infraestrutura.
+- ⚡ A VMB foi fundada com a missão de ajudar empresas e agricultores a abraçarem a transformação digital de maneira eficaz e segura, através do nosso software Smart TerraFarm, utilizando inteligência artificial para deixar 
+ o solo do agricultor mais saudável. Especializamo-nos em criar soluções personalizadas que alavancam o poder da AWS, oferecendo escalabilidade, flexibilidade e segurança incomparáveis. Nosso portfólio abrange desde a migração de sistemas legados para a nuvem até a implementação de arquiteturas de microsserviços e automação de infraestrutura.
 
 ## Nossa Proposta de Valor
 
